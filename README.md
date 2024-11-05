@@ -4,3 +4,4 @@
 1. 각 카테고리를 클릭하면 다른 페이지로 이동 가능하고
 2. 링크 클릭 시 사이트로 이동 또한 가능합니다.
 ---
+![image (2)](https://github.com/user-attachments/assets/3382c338-3e6d-4e49-b68a-7376c4efc0f3)
